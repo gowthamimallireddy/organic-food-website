@@ -16,7 +16,6 @@ body{
     background-image: url('./carousel-2\ \(1\).jpg');
     background-size: cover;
     height: 700px;
-    width: 100%;
 }
  .nav1{
     display: flex;
@@ -1834,6 +1833,10 @@ h2{
     gap:10px;
     background-color: black;
     margin-bottom: 10px;
+}
+    .sub-footer1{
+    margin-top: 10px;
+    margin-left: 80px;
 }
 .sub-footer2{
     margin-top: 10px;
