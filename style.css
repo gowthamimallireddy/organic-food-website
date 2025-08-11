@@ -918,6 +918,652 @@ h2{
     margin-left: 220px;
 }
 
+@media screen and (min-width: 1025px) and (max-width: 1280px){
+    *{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  /* .nav{
+    background-image: url('./carousel-2\ \(1\).jpg');
+    background-size: cover;
+    width: 100%;
+    height: 350px;
+}
+
+ .nav1{
+        display: none;
+    } */
+     /* .fa-bars{
+        display: contents;
+    } */
+    
+     /* #menu-toggle:checked ~  .menu-bar2{ 
+       
+         display: flex; 
+
+
+    } */
+    /* .toggle-btn{
+        font-size: 24px;
+        cursor: pointer;
+        padding: 8px;
+        display: block;
+
+    }     */
+    
+     /* .menu-bar2>a{
+        background-color:rgb(243, 241, 241);
+        border-top: 1px solid rgb(192, 191, 191);
+        padding:5px;
+
+    } 
+     .menu-bar2{
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top:50px;
+        right: 1px;
+        z-index: 1000;
+    }   */
+
+
+
+
+
+    /* .icon-buttons{
+        display: none;
+    } */
+  
+    .nav-aside{
+        margin-top: 100px;
+        margin-left: 50px;
+        
+    }
+
+    
+    .para1{
+        font-size: 3rem;
+        width: 80%;
+        margin-right: 0px;
+        padding: 10px;
+    }
+    .btn{
+        margin-top: 25px;
+        display: flex;
+        gap:10px;
+    }
+    /* .button1{
+        padding:15px 15px;
+        font-size: medium;
+    }
+    .button2{
+        padding:15px 15px;
+        font-size: medium;
+    } */
+    .about{
+    margin-top: 100px;
+    display: flex;
+    
+    width:90%;
+    margin-left: 90px;
+
+    }
+    .about-para{
+        margin-top: 10px;
+        height: 300px;
+        margin-left: 90px;
+    }
+
+    .image1{
+        height: 350px;
+        margin-left: 50px;
+        width: 350px;
+    }
+    .para2{
+        font-size: 2rem;
+    }
+    .para3{
+        font-size:1.1rem;
+    }
+    .para4{
+        font-size: 1.1rem;
+    }
+    .button3{
+        padding: 15px 15px;
+        font-size: medium;
+    }
+    .heading-lines{
+
+    margin-top: 10px;
+}
+    .green{
+        margin-left: 450px;
+    }
+    .red{
+        margin-left: 440px;
+    }
+    .para5{
+        font-size: 2.2rem;
+        margin-right: 20px;
+    }
+    .para6{
+      width: 450px;
+      font-size: 1.1rem;
+      margin-left: 250px;
+    }
+    .features{
+        height: max-content;
+    }
+    .sub-feature{
+    display: flex;
+    margin-top: 50px;
+}
+.sub{
+    width: 450px;
+    height: 350px;
+} 
+
+.sub > .para7{
+    margin-top: 5px;
+}
+.ourProducts{
+    margin-top:50px;
+
+}
+.heading-lines2{
+    margin-left: 30px;
+
+}
+.para8{
+    font-size: 2.1rem;
+    font-weight: bold;
+    margin-left: 30px;
+}
+.sub-product{
+    display: flex;
+    
+
+}
+.para9{
+    margin-left: 30px;
+    width:350px;
+}
+ .sub-product2{
+    display: flex;
+    gap:10px; 
+    margin-left: 10px; 
+   
+} 
+
+.button6{
+    font-size: medium;
+    padding:10px 15px;
+}
+.vegetables{
+    display: flex;
+   
+}
+.products{
+    height: fit-content;
+    width: 200px;
+
+}
+.products>img{
+    width:200px;
+    height: 200px;
+    
+}
+
+
+
+.vegetables1{
+    display: flex;
+}
+.product-button{
+    padding:10px;
+    font-size: medium;
+    margin-left: 80px;
+    
+}
+ .veg1{
+     background-color: white;
+    border: none;
+     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    height: 200px;
+    margin-left: 30px;
+    position: relative;
+}
+.visit{
+    width:100%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+.visitone{
+    margin-top: 20px;
+    width:400px;
+    margin-left: 120px;
+}
+.para12{
+    font-size: 2rem;
+
+}
+.para13{
+    font-size:1.1rem;
+}
+.visit-button{
+   margin-top: 5px;
+    margin-left:120px ;
+}
+.button8{
+    padding: 15px 25px;
+    font-size: smaller;
+
+}
+.review{
+    display: flex;
+    
+}
+.review1{
+    margin-left: 70px;
+    height: 280px;
+}
+.review2{
+   
+    height: 280px;
+}
+.review3{
+    
+    height: 280px;
+}
+
+.sub-vlog{
+    display: flex;
+   
+    margin-left: 30px;
+}
+.vlog1{
+    margin-left: 30px;
+    width: 280px;
+
+}
+.vlog-image>img{
+    width:280px;
+}
+.footer{
+    background-color: black;
+    height: fit-content;
+}
+.footer1{
+    display: flex;
+
+    gap:10px;
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+.sub-footer2{
+    margin-top: 110px;
+    margin-left: 30px;
+    width:330px;
+}
+.sub-footer3{
+     margin-top: 110px;
+    margin-left: 40px;
+
+}
+.sub-footer4{
+     margin-top:   110px;
+    margin-left: 40px;
+}
+.footer2{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid gray;
+   
+}
+.sub-footer1{
+    margin-left: 80px;
+}
+.sfooter4{
+    margin-bottom: 10px;
+}
+.foot1{
+    margin-left: 300px;
+}
+.foot2{
+    margin-left: 300px;
+    margin-bottom: 10px;
+}
+.sub-foot2{
+    margin-left: 650px;
+}
+}
+
+
+@media screen and (max-width: 500px){
+    *{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    width:auto;
+  }
+  html,body{
+    overflow-x: hidden;
+  }
+  .nav{
+    background-image: url('./carousel-2\ \(1\).jpg');
+    background-size:contain;
+    width: 100%;
+    height: 350px;
+}
+.fa-bars{
+    display: contents;
+}
+.navbar1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ .nav1{
+        display: none;
+    }
+    #menu-toggle:checked ~ .menu-bar2{
+        display: flex;
+
+    }
+    #menu-toggle{
+        margin-left: auto;
+        cursor: pointer;
+
+    }
+    .toggle-btn{
+        font-size: 24px;
+        cursor: pointer;
+        padding: 8px;
+        display: block;
+
+    }  
+    
+     .menu-bar2>a{
+        background-color:rgb(243, 241, 241);
+        border-top: 1px solid rgb(192, 191, 191);
+        padding:5px;
+
+    } 
+    .menu-bar2{
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top:50px;
+        right: 1px;
+        z-index: 1000;
+    }  
+
+
+
+
+
+    .icon-buttons{
+        display: none;
+    }
+  
+    .nav-aside{
+        margin-top: 100px;
+        margin-left: 40px;
+        
+    }
+
+    
+    .para1{
+        font-size: 2.2rem;
+        width: 60%;
+        margin-right: 0px;
+        padding: 10px;
+    }
+    .btn{
+        margin-top: 25px;
+        display: flex;
+        gap:10px;
+    }
+    .button1{
+        padding:15px 15px;
+        font-size: medium;
+    }
+    .button2{
+        padding:15px 15px;
+        font-size: medium;
+    }
+    .about{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    width:90%;
+
+    }
+    .about-para{
+        margin-top: 10px;
+        height: 300px;
+        margin-left: 30px;
+    }
+
+    .image1{
+        height: 350px;
+        margin-left: 30px;
+        width: 350px;
+    }
+    .para2{
+        font-size: 2rem;
+    }
+    .para3{
+        font-size:1.1rem;
+    }
+    .para4{
+        font-size: 1.1rem;
+    }
+    .button3{
+        padding: 15px 15px;
+        font-size: medium;
+    }
+    .heading-lines{
+
+    margin-top: 10px;
+    margin-left: 100px;
+   
+}
+    .green{
+        margin-left: 100px;
+    }
+    .red{
+        margin-left: 90px;
+    }
+    .para5{
+        font-size: 2.2rem;
+        margin-right: 20px;
+    }
+    .para6{
+      width: 450px;
+      font-size: 1.1rem;
+      margin-left:20px;
+    }
+    .features{
+        height: max-content;
+    }
+    .sub-feature{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.sub{
+    margin-left: 80px;
+    width: 350px;
+    height: 300px;
+}
+
+.sub > .para7{
+    margin-top: 5px;
+}
+.ourProducts{
+    margin-top:50px;
+
+}
+.heading-lines2{
+    margin-left: 100px;
+
+}
+.para8{
+    font-size: 2.1rem;
+    font-weight: bold;
+    margin-left: 100px;
+}
+.sub-product{
+    display: flex;
+    flex-direction: column;
+
+}
+.para9{
+    margin-left: 100px;
+    width:350px;
+}
+ .sub-product2{
+    display: flex;
+    gap:10px; 
+    margin-left: 20px; 
+   
+} 
+
+.button6{
+    font-size: medium;
+    padding:10px 15px;
+}
+.vegetables{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+.products{
+    margin-left: 100px;
+    width:300px;
+}
+.products>img{
+    width: 300px;
+}
+.vegetables1{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+.product-button{
+    padding:10px;
+    font-size: medium;
+    margin-right:50px;
+    
+}
+.visit{
+    width:100%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+.visitone{
+    margin-top: 20px;
+    width:350px;
+    margin-left: 80px;
+}
+.para12{
+    font-size: 2rem;
+
+}
+.para13{
+    font-size:1.1rem;
+}
+.visit-button{
+   margin-top: 5px;
+    margin-left:80px ;
+}
+.button8{
+    padding: 15px 25px;
+    font-size: smaller;
+
+}
+.review{
+    display: flex;
+    flex-direction: column;
+    
+}
+.review1{
+    margin-left: 80px;
+}
+.review2{
+    margin-left: 80px;
+}
+.review3{
+    margin-left: 80px;
+}
+.sub-vlog{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    width: 400px;
+}
+.vlog1{
+    margin-left: 50px;
+}
+
+.footer{
+    background-color: black;
+    height: fit-content;
+}
+.footer1{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    background-color: black;
+    margin-bottom: 10px;
+}
+.sub-footer2{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.sub-footer3{
+     margin-top: 10px;
+    margin-left: 60px;
+
+}
+.sub-footer4{
+     margin-top: 10px;
+    margin-left: 60px;
+}
+.footer2{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid gray;
+   
+}
+.sub-footer1{
+    margin-left: 80px;
+}
+.sfooter4{
+    margin-bottom: 10px;
+}
+.foot1{
+    margin-left: 100px;
+}
+.foot2{
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+.sub-foot2{
+    margin-left: 335px;
+}
+}
 @media screen and (min-width: 500px) and (max-width: 750px){
     *{
     box-sizing: border-box;
@@ -1228,323 +1874,6 @@ h2{
 }
 
 
-@media screen and (max-width: 500px){
-    *{
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-    width:auto;
-  }
-  html,body{
-    overflow-x: hidden;
-  }
-  .nav{
-    background-image: url('./carousel-2\ \(1\).jpg');
-    background-size:contain;
-    width: 100%;
-    height: 350px;
-}
-.fa-bars{
-    display: contents;
-}
-.navbar1{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
- .nav1{
-        display: none;
-    }
-    #menu-toggle:checked ~ .menu-bar2{
-        display: flex;
-
-    }
-    #menu-toggle{
-        margin-left: auto;
-        cursor: pointer;
-
-    }
-    .toggle-btn{
-        font-size: 24px;
-        cursor: pointer;
-        padding: 8px;
-        display: block;
-
-    }  
-    
-     .menu-bar2>a{
-        background-color:rgb(243, 241, 241);
-        border-top: 1px solid rgb(192, 191, 191);
-        padding:5px;
-
-    } 
-     .menu-bar2{
-        display: none;
-        flex-direction: column;
-        position: absolute;
-        top:50px;
-        right: 1px;
-        z-index: 1000;
-    }  
 
 
-
-
-
-    .icon-buttons{
-        display: none;
-    }
-  
-    .nav-aside{
-        margin-top: 100px;
-        margin-left: 40px;
-        
-    }
-
-    
-    .para1{
-        font-size: 2.2rem;
-        width: 60%;
-        margin-right: 0px;
-        padding: 10px;
-    }
-    .btn{
-        margin-top: 25px;
-        display: flex;
-        gap:10px;
-    }
-    .button1{
-        padding:15px 15px;
-        font-size: medium;
-    }
-    .button2{
-        padding:15px 15px;
-        font-size: medium;
-    }
-    .about{
-    margin-top: 30px;
-    display: flex;
-    flex-direction: column;
-    margin-left: 50px;
-    width:90%;
-
-    }
-    .about-para{
-        margin-top: 10px;
-        height: 300px;
-        margin-left: 30px;
-    }
-
-    .image1{
-        height: 350px;
-        margin-left: 30px;
-        width: 350px;
-    }
-    .para2{
-        font-size: 2rem;
-    }
-    .para3{
-        font-size:1.1rem;
-    }
-    .para4{
-        font-size: 1.1rem;
-    }
-    .button3{
-        padding: 15px 15px;
-        font-size: medium;
-    }
-    .heading-lines{
-
-    margin-top: 10px;
-    margin-left: 100px;
-   
-}
-    .green{
-        margin-left: 100px;
-    }
-    .red{
-        margin-left: 90px;
-    }
-    .para5{
-        font-size: 2.2rem;
-        margin-right: 20px;
-    }
-    .para6{
-      width: 450px;
-      font-size: 1.1rem;
-      margin-left:20px;
-    }
-    .features{
-        height: max-content;
-    }
-    .sub-feature{
-    display: flex;
-    flex-direction: column;
-    margin-top: 50px;
-}
-.sub{
-    margin-left: 80px;
-    width: 350px;
-    height: 300px;
-}
-
-.sub > .para7{
-    margin-top: 5px;
-}
-.ourProducts{
-    margin-top:50px;
-
-}
-.heading-lines2{
-    margin-left: 100px;
-
-}
-.para8{
-    font-size: 2.1rem;
-    font-weight: bold;
-    margin-left: 100px;
-}
-.sub-product{
-    display: flex;
-    flex-direction: column;
-
-}
-.para9{
-    margin-left: 100px;
-    width:350px;
-}
- .sub-product2{
-    display: flex;
-    gap:10px; 
-    margin-left: 20px; 
-   
-} 
-
-.button6{
-    font-size: medium;
-    padding:10px 15px;
-}
-.vegetables{
-    display: flex;
-    flex-direction: column;
-    gap:10px;
-}
-.products{
-    margin-left: 100px;
-    width:300px;
-}
-.products>img{
-    width: 300px;
-}
-.vegetables1{
-    display: flex;
-    flex-direction: column;
-    gap:10px;
-}
-.product-button{
-    padding:10px;
-    font-size: medium;
-    margin-right:50px;
-    
-}
-.visit{
-    width:100%;
-    margin-top: 10px;
-    display: flex;
-    flex-direction: column;
-
-}
-.visitone{
-    margin-top: 20px;
-    width:350px;
-    margin-left: 80px;
-}
-.para12{
-    font-size: 2rem;
-
-}
-.para13{
-    font-size:1.1rem;
-}
-.visit-button{
-   margin-top: 5px;
-    margin-left:80px ;
-}
-.button8{
-    padding: 15px 25px;
-    font-size: smaller;
-
-}
-.review{
-    display: flex;
-    flex-direction: column;
-    
-}
-.review1{
-    margin-left: 80px;
-}
-.review2{
-    margin-left: 80px;
-}
-.review3{
-    margin-left: 80px;
-}
-.sub-vlog{
-    display: flex;
-    flex-direction: column;
-    margin-left: 20px;
-    width: 400px;
-}
-.vlog1{
-    margin-left: 50px;
-}
-
-.footer{
-    background-color: black;
-    height: fit-content;
-}
-.footer1{
-    display: flex;
-    flex-direction: column;
-    gap:10px;
-    background-color: black;
-    margin-bottom: 10px;
-}
-.sub-footer2{
-    margin-top: 10px;
-    margin-left: 60px;
-}
-.sub-footer3{
-     margin-top: 10px;
-    margin-left: 60px;
-
-}
-.sub-footer4{
-     margin-top: 10px;
-    margin-left: 60px;
-}
-.footer2{
-    background-color: black;
-    display: flex;
-    flex-direction: column;
-    border-top: 1px solid gray;
-   
-}
-.sub-footer1{
-    margin-left: 80px;
-}
-.sfooter4{
-    margin-bottom: 10px;
-}
-.foot1{
-    margin-left: 100px;
-}
-.foot2{
-    margin-left: 100px;
-    margin-bottom: 10px;
-}
-.sub-foot2{
-    margin-left: 310px;
-}
-}
 
